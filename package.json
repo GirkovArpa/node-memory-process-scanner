@@ -1,5 +1,5 @@
 {
-  "name": "process-memory-grep",
+  "name": "node-process-memory-scanner",
   "version": "0.1.0",
   "description": "Grep the memory of a process.",
   "main": "index.js",
@@ -21,8 +21,12 @@
   "license": "Unlicense",
   "private": true,
   "gypfile": true,
-  "dependencies": {
+  "devDependencies": {
     "bindings": "^1.2.1",
     "node-addon-api": "^1.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GirkovArpa/node-memory-process-scanner"
   }
 }
