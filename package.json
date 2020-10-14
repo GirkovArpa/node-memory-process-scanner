@@ -20,7 +20,7 @@
   ],
   "author": "GirkovArpa",
   "license": "Unlicense",
-  "private": true,
+  "private": false,
   "gypfile": true,
   "devDependencies": {
     "bindings": "^1.2.1",
