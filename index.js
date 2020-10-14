@@ -2,4 +2,4 @@
 
 const { scan } = require('bindings')('/release/addon');
 
-console.log(scan());
+console.log(scan('* Untitled - Notepad3', '(@@@[a-z ]{5,}@@@)'));
