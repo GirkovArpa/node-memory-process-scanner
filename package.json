@@ -4,6 +4,7 @@
   "description": "Grep the memory of a process.",
   "main": "index.js",
   "scripts": {
+    "install": "node-gyp rebuild",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
