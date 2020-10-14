@@ -1,6 +1,6 @@
 {
   "name": "node-process-memory-scanner",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Grep the memory of a process.",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   "license": "Unlicense",
   "private": false,
   "gypfile": true,
-  "devDependencies": {
+  "dependencies": {
     "bindings": "^1.2.1",
     "node-addon-api": "^1.7.1"
   },
