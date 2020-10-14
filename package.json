@@ -1,6 +1,6 @@
 {
   "name": "node-process-memory-scanner",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Grep the memory of a process.",
   "main": "index.js",
   "scripts": {
